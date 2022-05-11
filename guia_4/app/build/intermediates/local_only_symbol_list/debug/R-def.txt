@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_acercade
+id btn_contacto
+id btn_portafolio
+id btn_redessociales
+id btn_servicios
+id layout_main
+id textView
+id textView3
+id textView_selectedBtn
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string acerca_de
+string app_name
+string bot_n_seleccionado
+string contacto
+string mi_aplicaci_n_de_negocios
+string portafolio
+string redes_sociales
+string servicios
+style Theme.Guia_4
