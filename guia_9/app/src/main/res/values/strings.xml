@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SnackBarKotlin</string>
+    <string name="mensaje_snackbar">SnackBarKotlin Example</string>
+    <string name="user1">John</string>
+    <string name="email1">john@gmail.com</string>
+    <string name="user2">Andrew</string>
+    <string name="email2">andrew@gmail.com</string>
+    <string name="user3">Kunal</string>
+    <string name="email3">kunal@gmail.com</string>
+</resources>

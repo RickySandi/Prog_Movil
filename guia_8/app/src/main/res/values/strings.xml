@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SnackBarKotlin</string>
+    <string name="mensaje_snackbar">SnackBarKotlin Example</string>
+</resources>
